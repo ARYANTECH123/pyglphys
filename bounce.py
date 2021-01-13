@@ -59,7 +59,7 @@ def init():
 glutInit()
 glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB)
 glutInitWindowSize(500,500)
-glutCreateWindow("movingpoint")
+glutCreateWindow("bounce")
 init()
 glutDisplayFunc(display)
 glutIdleFunc(phys)
