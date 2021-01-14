@@ -1,0 +1,4 @@
+py==3.9.0
+pip==20.3.3
+PyOpenGL==3.1.5
+PyOpenGL-accelerate==3.1.5
